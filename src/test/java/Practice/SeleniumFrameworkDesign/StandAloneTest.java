@@ -22,7 +22,7 @@ import net.bytebuddy.asm.Advice.Argument;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//comment for testing the GitHub-Webhook 
 		String productName = "ZARA COAT 3";
 		
 		WebDriverManager.chromedriver().setup();//This takes care of setting up the chromedriver
